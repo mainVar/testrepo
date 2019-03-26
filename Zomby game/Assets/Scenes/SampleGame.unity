@@ -1344,7 +1344,7 @@ MonoBehaviour:
     prefab: {fileID: 1592692319654320, guid: 56b687d5207c5a44da93c35796ec236d, type: 3}
     size: 5
   - tag: Enemy Side
-    prefab: {fileID: 1592692319654320, guid: db95ab19b52035745a684f6b190a80c0, type: 3}
+    prefab: {fileID: 1592692319654320, guid: e8d27df1192c41c45ab351d6076b359f, type: 3}
     size: 5
   - tag: Human
     prefab: {fileID: 1608186286951852, guid: d394eadc816a40048944ec9fede0ea49, type: 3}
@@ -2039,8 +2039,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4280361249
-  m_fontColor: {r: 0.13207549, g: 0.13207549, b: 0.13207549, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2405,8 +2405,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4280361249
-  m_fontColor: {r: 0.13207549, g: 0.13207549, b: 0.13207549, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:

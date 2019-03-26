@@ -17,4 +17,4 @@ MonoBehaviour:
   TimeToSpawnEnemy: 5
   TimeSpawnTricky: 7
   TimeToSpawnSurvivor: 10
-  GameStatus: 1
+  GameStatus: 0

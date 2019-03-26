@@ -12,9 +12,10 @@ GameObject:
   - component: {fileID: 212208202067461522}
   - component: {fileID: 95177891989476692}
   - component: {fileID: 2972280793587401856}
-  - component: {fileID: 6360043760906710414}
+  - component: {fileID: 4390541085671659875}
+  - component: {fileID: 7931686787221528249}
   m_Layer: 0
-  m_Name: skeleton-move_side
+  m_Name: skeleton-moveTricky
   m_TagString: zombe_0
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -127,7 +128,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.05, y: 1.88}
   m_EdgeRadius: 0
---- !u!114 &6360043760906710414
+--- !u!114 &4390541085671659875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1592692319654320}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c478cc45b48a724458fd72f8fb6cbf8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  unit: {fileID: 1592692319654320}
+--- !u!114 &7931686787221528249
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -136,7 +150,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1592692319654320}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1044d40085a7fe4418b81745eeb9ef0e, type: 3}
+  m_Script: {fileID: 11500000, guid: 0b3f58e33ddea4441b1cad60cb1429d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   unit: {fileID: 1592692319654320}
